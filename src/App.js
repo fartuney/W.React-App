@@ -7,6 +7,17 @@ export default function App() {
     <div className="App">
       <h1>Weather Search Engine!</h1>
       <Weather />
+      <p>
+        <a
+          href="https://github.com/fartuney/W.React-App"
+          target="_blank"
+          rel="noreferrer"
+          title="project on GitHub"
+        >
+          Open-source code
+        </a>{" "}
+        by Fartuney
+      </p>
     </div>
   );
 }
